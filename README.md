@@ -68,3 +68,8 @@ data
 
 
 For several reasons, those files are kept out of this repo.
+
+
+# Useful Links
+
+  * [Book Errata](http://www.oreilly.com/catalog/errata.csp?isbn=0636920035091)
